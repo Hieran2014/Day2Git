@@ -11,4 +11,13 @@ public class Day2Demo {
 		System.out.println("Pushing 1st time......");
 	}
 
+	public void subtract(int a, int b) {
+		
+		System.out.println( a - b);
+	}
+	
+	public void add4(int a, int b) {
+		
+		System.out.println( a + b);
+	}
 }
