@@ -7,6 +7,8 @@ public class Day2Demo {
 		System.out.println("day2 demo local repository....");
 		
 		System.out.println("day2 demo Remote repository....");
+		
+		System.out.println("Pushing 1st time......");
 	}
 
 }
