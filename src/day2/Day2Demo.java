@@ -24,4 +24,6 @@ public class Day2Demo {
 	/**
 		This is coming from remote Repository
 	*/
+	
+	String firstName = "Jhon";
 }
