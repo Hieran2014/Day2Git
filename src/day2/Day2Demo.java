@@ -26,4 +26,7 @@ public class Day2Demo {
 	*/
 	
 	String firstName = "Jhon";
+	
+	//from remote
+	String lastName  = "Cena";
 }
