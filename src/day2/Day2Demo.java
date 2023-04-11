@@ -31,6 +31,8 @@ public class Day2Demo {
 	String lastName  = "Cena";
 	
 	boolean iscity = false;
+	
+	// commet
 }
 
 
