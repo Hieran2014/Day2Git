@@ -29,4 +29,8 @@ public class Day2Demo {
 	
 	//from remote
 	String lastName  = "Cena";
+	
+	boolean iscity = false;
 }
+
+
